@@ -1,6 +1,6 @@
 <p align="center">
-   <img width="140" height="140" src="" alt="Logo">
-  <h1 align="center"><b>Plan your trps using Solana</b></h1>
+   <img width="140" height="140" src="https://raw.githubusercontent.com/sol-inn/.github/main/profile/assets/logo.png" alt="Logo">
+  <h1 align="center"><b>Plan your Itineraries using Solana</b></h1>
   <p align="center">
 .
     <br />
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img width="70%" height="70%" src="" alt="Banner">
+  <img width="70%" height="70%" src="https://raw.githubusercontent.com/sol-inn/.github/main/profile/assets/back.jpg" alt="Banner">
 </p>
     <br />
 
