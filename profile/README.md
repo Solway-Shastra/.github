@@ -1,6 +1,6 @@
 <p align="center">
    <img width="140" height="140" src="https://raw.githubusercontent.com/sol-inn/.github/main/profile/assets/logo.png" alt="Logo">
-  <h1 align="center"><b>Plan your Itineraries using Solana</b></h1>
+  <h1 align="center"><b>plan your itineraries with your solana wallet</b></h1>
   <p align="center">
 .
     <br />
