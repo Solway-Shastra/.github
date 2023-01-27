@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img width="70%" height="70%" src="https://raw.githubusercontent.com/sol-inn/.github/main/profile/assets/back.jpg" alt="Banner">
+  <img width="75%" height="75%" src="https://raw.githubusercontent.com/Solway-Shastra/.github/main/profile/assets/a9136638-1153-429d-80c0-04f75c66323b.jpeg" alt="Banner">
 </p>
     <br />
 
